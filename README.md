@@ -12,7 +12,7 @@ Beethoven sheet bring best practicing, performing with instrument by quality in 
 
 Beethoven sheet supports ruling, input from musical instrument or supported digital hardware in supporting method like bluetooth.
 
-In climate change, beethoven sheet helps reducing paper for editing, managing, creating, create happy and meaningful life through music.
+In climate change, beethoven sheet helps reducing paper for editing, managing, creating, create happiness and meaningful life through music.
 
 ![image.png](image.png)
 
