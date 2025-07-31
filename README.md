@@ -1,6 +1,8 @@
-# Beethoven sheet
+# beethoven-sheet
 
-# Introduction
+## Beethoven Sheet
+
+### Introduction
 
 [https://github.com/vietphan1995/beethoven-sheet.git](https://github.com/vietphan1995/beethoven-sheet.git)
 
@@ -16,7 +18,7 @@ In climate change, beethoven sheet helps reducing paper for editing, managing, c
 
 ![image.png](image.png)
 
-[back to projects …](https://github.com/vietphan1995/projects)
+[back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
 https://six-zinc-ad4.notion.site/Beethoven-sheet-1b25e832d6ee80d79a17d36181726e77
